@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1631803874 source:c:\users\nature\desktop\test\cart\main.cpp
+	"ShopCart.h"
+	"MusicCDs.h"
+	"Magazines.h"
+	<iostream>
+	<string>
+	<vector>
+
+1631803668 source:c:\users\nature\desktop\test\cart\src\musiccds.cpp
+	"MusicCDs.h"
+	"MusicCDs.h"
+	"Magazines.h"
+	"Books.h"
+	<vector>
+	<string>
+	<fstream>
+
+1631803661 c:\users\nature\desktop\test\cart\include\musiccds.h
+	<vector>
+	<string>
+
+1631803636 source:c:\users\nature\desktop\test\cart\src\books.cpp
+	"Books.h"
+	<fstream>
+
+1631803625 c:\users\nature\desktop\test\cart\include\books.h
+	<iostream>
+	<string>
+
+1631803644 source:c:\users\nature\desktop\test\cart\src\magazines.cpp
+	"Magazines.h"
+	<fstream>
+
+1631803654 c:\users\nature\desktop\test\cart\include\magazines.h
+	<iostream>
+	<string>
+
+1631804923 source:c:\users\nature\desktop\test\cart\src\shopcart.cpp
+	"ShopCart.h"
+	<vector>
+	<string>
+	<fstream>
+
+1631803847 c:\users\nature\desktop\test\cart\include\shopcart.h
+	"MusicCDs.h"
+	"Magazines.h"
+	"Books.h"
+	<vector>
+	<string>
+
